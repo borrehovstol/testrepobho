@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-# Husk på dette
-* Utarbeid forslag
-+ test forslaget
+## Husk på dette
+- Utarbeid forslag
+- test forslaget
