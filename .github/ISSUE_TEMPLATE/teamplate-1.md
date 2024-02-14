@@ -11,3 +11,4 @@ Testing av template ved opprettelse av issue
 
 - [ ] Oppgave 1
 - [ ] Oppgave 2
+- [ ] #
