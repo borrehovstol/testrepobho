@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Teamplate 1
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
