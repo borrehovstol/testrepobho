@@ -7,9 +7,12 @@ assignees: ''
 
 ---
 
-**Testing av template ved opprettelse av issue**
+Testing av template ved opprettelse av issue
 
 - [ ] Oppgave 1
 - [ ] Oppgave 2
 
-> Text that is a quote
+
+
+
+[^1]: Fotonote
