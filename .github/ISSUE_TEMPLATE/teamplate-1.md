@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-# Testing av template ved opprettelse av issue
-## testing av tekst
-### testing av undertekst
+**Testing av template ved opprettelse av issue**
 
 - [ ] Oppgave 1
 - [ ] Oppgave 2
+
+> Text that is a quote
